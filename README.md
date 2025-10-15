@@ -46,13 +46,11 @@ After generating the base structure with Cursor AI, I made several custom update
 ## 📸 Screenshots
 
 > *(I will add screenshots of my working on cursor ai sections here)*  
-1.  [Uploading capture_20251015212152112.bmp…]()
-
-2.  [Uploading capture_20251015212333427.bmp…]()
-
-3.   [Uploading capture_20251015220407921.bmp…]()
-
-4.  [Uploading capture_20251015212428722.bmp…]()
+1. sir  there is a issueing to upload the screeshots so I will give those in a pdf
+2. 
+3. 
+4.  
+5. 
 
 
 ---
